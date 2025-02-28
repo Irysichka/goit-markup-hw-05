@@ -655,6 +655,10 @@ img {
 .modal-container-block {
   margin-bottom: 8px;
 }
+
+.modal-container-text{
+  margin-bottom: 16px;
+}
 .modal-form-label {
   display: block;
   font-weight: 400;
